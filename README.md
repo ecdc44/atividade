@@ -1,7 +1,8 @@
 # atividade
 ![a](https://github.com/ecdc44/atividade/blob/main/Screenshot_1.png)
 ##
-## passo-a-passo
+### passo-a-passo
+
 1. Abrir o visual studio code e o github.
 2. Criei um novo projeto no github.
 3. Fiz um ``git clone`` + a URL do saite
