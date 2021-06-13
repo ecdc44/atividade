@@ -1,7 +1,7 @@
-# atividade
+# Atividade
 ![a](https://github.com/ecdc44/atividade/blob/main/Screenshot_1.png)
 ##
-### passo-a-passo
+### Passo-a-passo
 
 1. Abrir o visual studio code e o github.
 2. Criei um novo projeto no github.
@@ -31,7 +31,7 @@
 26. Depois de aplicar tudo criei mais uma tag a qual foi nomeada como 1.1 "versão de entrega".
 27. Adicionei a tag na branch main.
 
-## branch utilizado
+## Branch utilizado
 + main <br> 
 + dev <br>
 + temp <br>
