@@ -1,0 +1,1 @@
+log.commit("arquivo1")
