@@ -10,8 +10,20 @@
 6. Utilizei o ``git add .`` para adicionar todos os arquivos.
 7. coloquei um commit nos arquivos 1 e 2 ``git commit -m`` a qual chamei de **"um"**.
 8. Depos de todo coloquei ``git status`` para verificar se estava tudo certo.
-9. Vendo que não tem erro usei ``git push`` para adicionar no site.
-10. 
+9. Vendo que não tem erro usei ``git push`` para adicionar no site github.
+10. Usei o ``git log --oneline`` para ver a estrutura do projeto.
+11. Adicionei mais um arquivo a qual coloquei como 3.
+12. A qual fiz o mesmo processo.
+13. Criei uma tag a qual coloqui (1.0 "verão de início") ``git tag -a 1.0 -m``
+14. Depois coloqui a tag associada na branch **main** ``git push origin main --tags``
+15. 
+
+
+
+
+
+
+
 ## branch utilizado
 main <br> 
 dev <br>
