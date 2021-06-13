@@ -5,7 +5,7 @@
 
 1. Abrir o visual studio code e o github.
 2. Criei um novo projeto no github.
-3. Fiz um ``git clone`` + a URL do saite
+3. Fiz um ``git clone`` + a URL do saite.
 4. Criei dois arquivos no vsc (visual studio code) o numero 1 e o numero 2.
 5. Usei um ``ls`` para ver onde estava a minha pasta, depois usei o ``cd`` + o local do arquivo na bash e coloquei onde se encontrava eles.
 6. Utilizei o ``git add .`` para adicionar todos os arquivos.
@@ -27,7 +27,7 @@
 22. Depois de tudo, voltei para a ramificação "dev" ``git checkout dev``.
 23. Mesclei as ramificação temp com as da dev ``git merge temp``.
 24. Depois de aplicar tudo eu tirei o arquivo 4 e adicionei mais uma linha no arquivo um a qual commitei como **seis**.
-25. Mesclei as ramificação temp com as da main ``git merge dev``
+25. Mesclei as ramificação temp com as da main ``git merge dev``.
 26. Depois de aplicar tudo criei mais uma tag a qual foi nomeada como 1.1 "versão de entrega".
 27. Adicionei a tag na branch main.
 
